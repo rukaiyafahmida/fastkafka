@@ -93,7 +93,7 @@ button below:
 ## Writing server code
 
 Here is an example python script using FastKafka that takes data from a
-Kafka topic, makes a prediction using a predictive model, and outputs
+Kafka topic, makes a prediction using a predictive model, and gives
 the prediction to another Kafka topic.
 
 ### Preparing the demo model
